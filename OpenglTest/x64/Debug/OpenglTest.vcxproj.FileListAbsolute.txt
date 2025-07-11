@@ -1,0 +1,2 @@
+D:\hdh\Documents\VS\OpenglTest\x64\Debug\OpenglTest.exe
+D:\git\respository\mycg\OpenglTest\x64\Debug\OpenglTest.exe
